@@ -152,7 +152,7 @@ fn create_pair() {
                 .unwrap(),
                 code_id: 321u64,
                 funds: vec![],
-                label: "".to_string(),
+                label: "pair".to_string(),
                 admin: None,
             }
             .into()
